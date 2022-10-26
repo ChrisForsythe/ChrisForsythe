@@ -1,14 +1,20 @@
 ### Hi there, I'm Chris
 
 
+##I created a project called Growl, originally called Global notifications Center, in the early 2000's. I then helped to create Perian, and was Project Manager on Adium.
 
+## Right now I work on mostly Information Security/CyberSecurity, know a lot about Splunk Process Language and Regular Expressions. The following are a few regular expressions I created which are my favorites.
 
+<a href="https://regex101.com/r/0vuTiN/1/">Find duplicates</a>
+ <br />
+<a href="https://regex101.com/r/CnMRJg/14/">Find text wrapped with an asterisk in a unique way</a>
+<br />
+<a href="https://regex101.com/r/7Gnbhf/22/">Find the beginning and ending of sentences on a line (the wild horses regex)</a>
+<br />
+<a href="https://regex101.com/r/p4BKOh/27/">Find different types of hashes for crypto types</a>
+<br />
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/regex.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/spl.png"></code>
- 
+ ##The full history of edits for each regex are there so you can see the progression of building these out. I prefer PCRE but am not limited to it, simple for DEFINE and a few other benefits PCRE provides.
 
 
 
