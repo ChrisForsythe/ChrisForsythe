@@ -6,7 +6,7 @@ I created a project called Growl, originally called Global Notifications Center,
 Right now I work on mostly Information Security/CyberSecurity, know a lot about Splunk Process Language and Regular Expressions. The following are a few regular expressions I created which are my favorites.
 
 | My favorite regular expressions| |
-| -------------------------------- | | 
+| -------------------------------- | -------------------------------- | 
 | <a href="https://regex101.com/r/0vuTiN/1/">Find duplicates</a> | <a href="https://regex101.com/r/CnMRJg/14/">Find text wrapped with an asterisk in a unique way</a> |
 | <a href="https://regex101.com/r/7Gnbhf/22/">Find the beginning and ending of sentences on a line (the wild horses regex)</a> | <a href="https://regex101.com/r/p4BKOh/27/">Find different types of hashes for crypto types</a> |
 
