@@ -1,7 +1,7 @@
 ### Hi there, I'm Chris
 
 
-### I created a project called Growl, originally called Global notifications Center, in the early 2000's. I then helped to create Perian, and was Project Manager on Adium. My commit history predates the existence of GitHub or Git, but some of the repos survived and have been migrated here. 
+### I created a project called Growl, originally called Global Notifications Center, in the early 2000's. I then helped to create Perian. Previously I was Project Manager on Adium. My commit history predates the existence of GitHub or Git, but some of the repos survived and have been migrated here. 
 
 ### Right now I work on mostly Information Security/CyberSecurity, know a lot about Splunk Process Language and Regular Expressions. The following are a few regular expressions I created which are my favorites.
 
