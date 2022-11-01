@@ -3,7 +3,7 @@
 
 ### I created a project called Growl, originally called Global Notifications Center, in the early 2000's. I then helped to create Perian. Previously I was Project Manager on Adium. My commit history predates the existence of GitHub or Git, but some of the repos survived and have been migrated here. 
 
-### Right now I work on mostly Information Security/CyberSecurity, know a lot about Splunk Process Language and Regular Expressions. The following are a few regular expressions I created which are my favorites.
+Right now I work on mostly Information Security/CyberSecurity, know a lot about Splunk Process Language and Regular Expressions. The following are a few regular expressions I created which are my favorites.
 
 <a href="https://regex101.com/r/0vuTiN/1/">Find duplicates</a>
  <br />
@@ -14,9 +14,9 @@
 <a href="https://regex101.com/r/p4BKOh/27/">Find different types of hashes for crypto types</a>
 <br />
 
- ### The full history of edits for each regex are there so you can see the progression of building these out. I prefer PCRE but am not limited to it, simple for DEFINE and a few other benefits PCRE provides.
+The full history of edits for each regex are there so you can see the progression of building these out. I prefer PCRE but am not limited to it, simple for DEFINE and a few other benefits PCRE provides.
 
-### Right now I share a repo with others working on making SPL code which shows how to work with SPL. Here is the repo:
+Right now I share a repo with others working on making SPL code which shows how to work with SPL. Here is the repo:
 
 <a href="https://github.com/ChrisForsythe/SplunkStuff/">Splunk Stuff</a>
 
