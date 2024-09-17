@@ -21,8 +21,6 @@ Right now I share a repo with others working on making SPL code which shows how 
 <br />
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisForsythe&show_icons=true&include_all_commits=true&theme=material-palenight" alt="My's github stats" />
-</a>
 
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
