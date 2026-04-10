@@ -7,7 +7,7 @@ Right now I work on mostly Information Security/CyberSecurity, know a lot about 
 
 | My favorite regular expressions| |
 | -------------------------------- | -------------------------------- | 
-| <a href="https://regex101.com/r/0vuTiN/1/">Find duplicates</a> | <a href="https://regex101.com/r/CnMRJg/14/">Find text wrapped with an asterisk in a unique way</a> |
+| <a href="https://regex101.com/r/0vuTiN/3/">Find duplicates</a> | <a href="https://regex101.com/r/CnMRJg/14/">Find text wrapped with an asterisk in a unique way</a> |
 | <a href="https://regex101.com/r/7Gnbhf/22/">Find the beginning and ending of sentences on a line (the wild horses regex)</a> | <a href="https://regex101.com/r/p4BKOh/27/">Find different types of hashes for crypto types</a> |
 | <a href="https://regex101.com/r/b4kISt/6/">Find valid roman numerals</a> | |
 
